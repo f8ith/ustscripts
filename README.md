@@ -1,0 +1,2 @@
+# ustscripts
+scripts for school 
